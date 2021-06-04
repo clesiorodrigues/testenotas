@@ -1,0 +1,13 @@
+{
+    "name": "clesio/notas",
+    "description": "teste de emissao de notas",
+    "authors": [
+        {
+            "name": "clesiorodrigues",
+            "email": "83224742+clesiorodrigues@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "tecnospeedsa/plugnotas": "~1.4"
+    }
+}
